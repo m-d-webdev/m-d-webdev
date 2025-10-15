@@ -6,6 +6,43 @@
   
 </div>
 
+## 🌐 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-iderkaoui-2748ab31b)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://iderkaoui.site)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iderkaoui.mustapha.dev@gmail.com)
+  
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=m-d-webdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  
+</div>
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-d-webdev&theme=react-dark&hide_border=true&area=true)
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-d-webdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-webdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-d-webdev&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+
+</div>
+---
+
 ## 🚀 About Me
 
 I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web development. I love creating elegant solutions and exploring how things work under the hood. Currently building innovative projects that push the boundaries of what's possible on the web.
@@ -17,6 +54,11 @@ I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web 
 - 📫 How to reach me: **iderkaoui.mustapha.dev@gmail.com**
 - 🌐 Portfolio: **[iderkaoui.site](https://iderkaoui.site)**
 - ⚡ Fun fact: **I'm always curious about how things work — I like breaking things down just to understand them better**
+- 
+## 🚀 Featured Project
+
+### 🤖 Prompt Flow
+An innovative AI project that streamlines prompt engineering and AI workflows. Check it out at [prompt-flow.space](https://prompt-flow.space)
 
 ## 🛠️ Tech Stack
 
@@ -48,46 +90,8 @@ I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web 
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-webdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-webdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-webdev&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=m-d-webdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
-</div>
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-d-webdev&theme=react-dark&hide_border=true&area=true)
-
-## 🚀 Featured Project
-
-### 🤖 Prompt Flow
-An innovative AI project that streamlines prompt engineering and AI workflows. Check it out at [prompt-flow.space](https://prompt-flow.space)
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-iderkaoui-2748ab31b)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://iderkaoui.site)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iderkaoui.mustapha.dev@gmail.com)
-  
-</div>
-
----
 
 <div align="center">
   
