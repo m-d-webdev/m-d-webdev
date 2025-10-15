@@ -1,10 +1,19 @@
 # I'm Iderkaoui Mustapha 
 
 <div align="center">
+
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Building+AI+Projects;Always+Learning+New+Things)
+
   
 </div>
+
+## Summary Card
+<div align="center">
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-d-webdev&theme=radical)
+</div>
+
 
 
 ## 🏆 GitHub Trophies
@@ -26,10 +35,10 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-d-webdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-webdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=m-d-webdev&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+
+  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-d-webdev&theme=radical&utcOffset=+1)
+  ![Language Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-d-webdev&theme=radical)
 
 </div>
 ---
@@ -53,8 +62,10 @@ I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-iderkaoui-2748ab31b)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://iderkaoui.site)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iderkaoui.mustapha.dev@gmail.com)
-  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iderkaoui)
+
 </div>
+
 
 ## 🚀 Featured Project
 
@@ -101,9 +112,9 @@ An innovative AI project that streamlines prompt engineering and AI workflows. C
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   ### 👀 Profile Views
-  
-  ![Visitor Count](https://profile-counter.glitch.me/m-d-webdev/count.svg)
-  ![Visitor Count](https://profile-counter.glitch.me/m-d-webdev/count.svg)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=m-d-webdev&color=blueviolet&style=flat-square)
+
 
   **Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome!** ✨
   
