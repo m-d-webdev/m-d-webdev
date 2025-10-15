@@ -6,15 +6,6 @@
   
 </div>
 
-## 🌐 Connect with Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-iderkaoui-2748ab31b)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://iderkaoui.site)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iderkaoui.mustapha.dev@gmail.com)
-  
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -54,7 +45,18 @@ I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web 
 - 📫 How to reach me: **iderkaoui.mustapha.dev@gmail.com**
 - 🌐 Portfolio: **[iderkaoui.site](https://iderkaoui.site)**
 - ⚡ Fun fact: **I'm always curious about how things work — I like breaking things down just to understand them better**
-- 
+
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-iderkaoui-2748ab31b)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://iderkaoui.site)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iderkaoui.mustapha.dev@gmail.com)
+  
+</div>
+
 ## 🚀 Featured Project
 
 ### 🤖 Prompt Flow
