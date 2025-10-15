@@ -38,7 +38,7 @@
 
 I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web development. I love creating elegant solutions and exploring how things work under the hood. Currently building innovative projects that push the boundaries of what's possible on the web.
 
-- 🔭 I'm currently working on **Prompt Flow** - an AI project at [prompt-flow.space](https://prompt-flow.space)
+- 🔭 I'm currently working on **Prompt Flow** - an AI project at [promt-flow.space](https://promt-flow.space)
 - 🌱 I'm currently learning **Next.js** to level up my full-stack skills
 - 👯 I'm looking to collaborate on **anything interesting**
 - 💬 Ask me about **web development, JavaScript, React, or Next.js**
@@ -60,7 +60,7 @@ I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web 
 ## 🚀 Featured Project
 
 ### 🤖 Prompt Flow
-An innovative AI project that streamlines prompt engineering and AI workflows. Check it out at [prompt-flow.space](https://prompt-flow.space)
+An innovative AI project that streamlines prompt engineering and AI workflows. Check it out at [prompt-flow.space](https://promt-flow.space)
 
 ## 🛠️ Tech Stack
 
