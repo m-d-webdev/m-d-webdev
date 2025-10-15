@@ -40,7 +40,6 @@ I'm a passionate Full Stack Developer from Agadir, Morocco, specializing in web 
 
 - 🔭 I'm currently working on **Prompt Flow** - an AI project at [promt-flow.space](https://promt-flow.space)
 - 🌱 I'm currently learning **Next.js** to level up my full-stack skills
-- 👯 I'm looking to collaborate on **anything interesting**
 - 💬 Ask me about **web development, JavaScript, React, or Next.js**
 - 📫 How to reach me: **iderkaoui.mustapha.dev@gmail.com**
 - 🌐 Portfolio: **[iderkaoui.site](https://iderkaoui.site)**
@@ -104,7 +103,8 @@ An innovative AI project that streamlines prompt engineering and AI workflows. C
   ### 👀 Profile Views
   
   ![Visitor Count](https://profile-counter.glitch.me/m-d-webdev/count.svg)
-  
+  ![Visitor Count](https://profile-counter.glitch.me/m-d-webdev/count.svg)
+
   **Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome!** ✨
   
 </div>
