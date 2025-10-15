@@ -38,7 +38,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-webdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-d-webdev&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=m-d-webdev&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
 
 </div>
 ---
